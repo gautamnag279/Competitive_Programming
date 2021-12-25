@@ -1,2 +1,2 @@
-# Competitive_Programming
-Competitive programming is basically solving well-defined problems by writing computer programs under specified limits or constraints. You can opt for any language of choice (I prefer C++/Python) where the main aim is to solve complex computational and matematical problem with efficiency and in less time.
+# HackerRank
+HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
