@@ -9,7 +9,7 @@ public class Solution
         Scanner scan = new Scanner(System.in);
         
         int num = scan.nextInt();
-        float deci = scan.nextFloat();
+        Double deci = scan.nextDouble();
         //This extra 'scan.nextLine() is needed to clear the buffer'
         scan.nextLine();
         String str = scan.nextLine();
