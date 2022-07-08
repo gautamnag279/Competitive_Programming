@@ -9,4 +9,4 @@ for i in range(n):
     a, b = [int(i) for i in input().split(" ")]
     print(maxMoves(a, b))
     
-# JHUMPA SOLVED THIS ONE 
+# MY SISTER SOLVED THIS ONE 
