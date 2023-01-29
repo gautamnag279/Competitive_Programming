@@ -1,3 +1,0 @@
-SELECT ROUND(MEDIAN(Lat_N), 4) FROM Station
-
-#This is much easier to do in Oracle ☜(ﾟヮﾟ☜)

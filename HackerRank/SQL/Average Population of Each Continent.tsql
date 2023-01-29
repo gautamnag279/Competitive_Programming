@@ -1,4 +1,0 @@
-select country.continent, avg(city.population) from city, country 
-where country.code = city.countrycode
-group by country.continent
-GO
